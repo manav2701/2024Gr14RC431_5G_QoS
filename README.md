@@ -23,6 +23,7 @@ This repository demonstrates a data-driven workflow to:
 
 ## Project Structure
 
+```
 5G/
 ├── Quality_of_Service_5G.csv      # Raw CSV Main dataset
 ├── 2024Gr14RC431_5G_QoS.ipynb     # Colab notebook with full analysis
@@ -35,8 +36,8 @@ This repository demonstrates a data-driven workflow to:
     ├── latency_by_app.png
     ├── signal_strength_by_app.png
     ├── resource_allocation_by_app.png
-    └── summary_statistics.csv  
-
+    └── summary_statistics.csv
+```
 
 ---
 
