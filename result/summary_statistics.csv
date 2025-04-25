@@ -1,0 +1,5 @@
+,Timestamp,User_ID,Application_Type,Signal_Strength,Latency,Required_Bandwidth,Allocated_Bandwidth,Resource_Allocation
+count,400,400,400,400,400,400,400,400
+unique,7,400,11,84,87,188,194,9
+top,9/3/2023 10:01,User_384,Video_Call,-85 dBm,5 ms,0.1 Mbps,0.1 Mbps,70%
+freq,60,1,58,9,35,16,16,148
