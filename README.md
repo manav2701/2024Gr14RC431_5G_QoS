@@ -17,8 +17,8 @@ This repository demonstrates a data-driven workflow to:
 ## Project Structure
 ```
 5G/
-├── Quality_of_Service_5G.csv      # Raw CSV data
-├── notebook.ipynb                 # Colab notebook with full analysis
+├── Quality_of_Service_5G.csv      # Raw CSV Main dataset
+├── 2024Gr14RC431_5G_QoS.ipynb     # Colab notebook with full analysis
 └── results/                       # Outputs directory
     ├── first_rows.csv
     ├── summary_statistics.csv
@@ -26,9 +26,9 @@ This repository demonstrates a data-driven workflow to:
     ├── anova_results.txt
     ├── feature_correlation_matrix.csv
     ├── feature_correlation_heatmap.png
-    ├── box_signal_z.png
-    ├── box_latency_z.png
-    └── box_resource_allocation.png
+    ├── latency_by_app.png
+    ├── signal_strength_by_app.png
+    └── resource_allocation_by_app.png
 ```
 
 ---
