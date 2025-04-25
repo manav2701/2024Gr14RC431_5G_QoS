@@ -1,4 +1,4 @@
-# 2024Gr14RC431_5G_QoS
+# 2024Gr14EC431_5G_QoS
 
 # 5G Quality of Service (QoS) Analysis
 
